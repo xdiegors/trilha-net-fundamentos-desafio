@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Fundamentos
-www.dio.me
+Desafio de projeto realizado para a Digital Innovation One - Neste desafio foi finalizado o sistema de estacionamento em C# - www.dio.me
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
@@ -32,7 +32,6 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 2. Remover veículo
 3. Listar veículos
 4. Encerrar
-
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
