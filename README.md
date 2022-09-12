@@ -1,6 +1,7 @@
 # DIO - Trilha .NET - Fundamentos
-Desafio de projeto realizado para a Digital Innovation One - Neste desafio foi finalizado o sistema de estacionamento em C# - www.dio.me
+Desafio de projeto realizado para a Digital Innovation One - Neste desafio finalizei o sistema de estacionamento em C# da www.dio.me
 
+## ========================================
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
